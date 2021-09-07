@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Web hosts review</title>
+  <link href="webhost.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+  <h1>Web Hosts Review</h1>
+  <p>We will be learning at which websites to look at sponsoring our website</p>
+
+  <h2><a href="https://www.bluehost.com/">BlueHost</a></h2>
+  <p>I choose BlueHost this is because they give you the experience that most cant give you. They let you create a website without using code which makes it alot easier to use. They also have 24/7 hour customer support, free domaine for the first year, wordpress- based builder available, and total design freedom. Blue Host has the thing you need from creating a website, blog or online store. The price starts at $2.95 a month and $8.99 after a month in the basic price for 36 months. This gives you one website, 50 GB SSD Storage, Custum themes, 24/7 Customer Support, Website Builder Available, also includes a free domain for a year, free CDN Included, and a free SSL Certificate. They offer a basic plan but they also have three other plans which are plus, Choice Pluss, and Pro. For a 12 month basic plan it starts at $4.95 then to $9.99.</p>
+<img src="BlueHost.jpg" width="300" alt="photo of BlueHost" title="This is a logo from BlueHost">
+
+  <h3><a href="https://www.godaddy.com/">GoDaddy</a></h3>
+  <p>Go Daddy is a website you can build for free then pay as you grow having a atrraction for customers with a website plus intergrated marketing tools. The customer can sell anywhere from Amazon, Etsy, to your own web store and you can manage it all in one place which makes the experience alot easier to use. You can create your own templete from 100+ different templetes. Then you can make it your own from colors, fonts or the entire layout by simple easy tools to use. They have over 20+ million customers around the world. I couldnt find the pricing because its a pay as you grow your website so thats the only draw back in taking up GoDaddy but if you don't need everything and just need a start this could be the perfect web host for you.</p>
+<img src="GoDaddy.jpg" width="300" alt=" photo of GoDaddy" title="This is a logo from GoDaddy">
+
+  <h4><a href="https://www.fatcow.com/">FatCow</a></h4>
+  <p>FatCow is a web host domain they offere you one freed domain name, oodles of storage and bandwidth, site templates, unlimited mailboxes and much more for the price of $4.08 month. The bonus features you get with every FatCow Plan is google adwords, Microsoft, your-sweet-domain.com, WordPress, and Joomla! They have alot of services from online Store Building tools, Load-Balanced Architecture, Moo Crew Support, CGI, PHP, Python, Perl, Ruby and MySQL in all the plans. This gives you a wide strange of platforms to use. For the FatCow Plans is a Monthy cost of $9.49 first month is only $4.08 but a one year plan is $131.88, 2 year is $239.76, and a 3 year plan is $323.64. This does seem pretty expensive but if it has what you are looking for it could be really good for you. It is a trusted web host too so dont be scared that it is a scam.</p>
+<img src="FatCow.jpg" width="300" alt="photo of FatCow" title="This is a logo from FatCow">
+
+</body>
+
+
+</html>
