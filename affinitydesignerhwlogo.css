@@ -1,0 +1,42 @@
+#wrap {
+	width: 1000px;
+	margin: 0 auto;
+}
+header {
+	clear: both;
+	text-align:center;
+  color: blue
+}
+h1{
+	font-size: 25px;
+	font-family: Georgia, serif;
+	color: Black;
+}
+
+figure{
+  background-color: white;
+  width: 1px;
+  padding: 10px 10px 5px 10px;
+  border: 1px solid white;
+	float:
+  float: side-by-side;
+  margin: 20px;
+	font-size: 90%;
+	font-family: Arial, sans-serif;
+}
+.freedomlogo {
+  width: 400px;
+  height: 600px;
+  background-color: blue;
+}
+
+.playboylogo{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+	figcaption{
+	  color: white;
+	  font-family: Arial, sans-serif;
+		font-size: 90%;
+	}
