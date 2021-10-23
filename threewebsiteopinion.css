@@ -1,0 +1,45 @@
+body{
+background-color: #dddddd;
+background-image: url(sunset.jpg);
+background-repeat: repeat-y;
+background-position: top left;
+background-clip: content-box;
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+h2 {
+  color: green;
+  font-family: Arial;
+  font-variant: small-caps;
+}
+
+p {
+  font-family: verdana;
+}
+
+ul {
+  border: 5px dotted purple;
+  width: 200px;
+}
+
+#lamp {
+  border: 7px solid tan;
+}
+
+.nobody {
+  font-style: italic;
+}
+
+.box, .window {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+}
+
+.box p {
+  color: white;
+}
