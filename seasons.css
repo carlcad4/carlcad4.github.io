@@ -1,0 +1,111 @@
+body {
+  Margin: 0;
+  padding: 0;
+}
+
+#wrap{
+  width: 70%;
+  margin: 0 auto;
+}
+
+header{
+  background-color: purple;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
+
+nav{
+  background-color: green;
+  padding: 20px;
+  text-align: center;
+  text-decoration-color: black;
+}
+
+nav li{
+  display: inline;
+}
+
+nav ul{
+  margin: 0;
+}
+
+nav a{
+  color: black;
+  text-decoration: none;
+  padding: 20px;
+}
+
+nav a:hover{
+  background-color: gold;
+}
+
+section{
+  background-color: beige;
+  overflow: auto;
+}
+
+aside{
+  width: 28%;
+  float: left;
+  /*padding: 4%;*/
+}
+
+aside a{
+  padding: 10px 0 10px 30px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+}
+
+aside a :hover{
+  background-color: blue;
+  color: white;
+}
+
+aside li{
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+aside ul{
+  margin: 0;
+  padding: 0;
+}
+
+article{
+  width: 64%;
+  background-color: darkorchid;
+  float: right;
+  padding: 0 4% 2% 4%;
+}
+
+footer{
+  background-color: plum;
+}
+
+.weather{
+  
+}
+
+@media screen and (max-width:600px;) {
+
+  body{
+  background-color: beige;
+}
+
+nav{
+  padding: 0;
+}
+
+nav a{
+  display: block;
+  width: 100%;
+  padding: 20px 0;
+}
+
+nav li, nav ul, {
+  margin: 0;
+  padding: 0;
+}
+}
